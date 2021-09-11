@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aditya-di
-- 👀 I’m interested in Web backend development/ Front end development
+- 👀 I’m interested in Back end, Front end, Full stack development, and Cloud based web backend development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Open source projects
 - 📫 How to reach me adityadingare76@gmail.com
